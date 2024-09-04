@@ -22,7 +22,8 @@ describe("User tests movie search functionality", () => {
     });
 
     it("User can search for movie and verify title, description, ratings/release dates, and poster", () => {
-    
+
+       cy.step('Searches for a movie')
        cy.get(ids.searchBar).type(`${randomTitle} {enter}`)
        cy.wait(500)
        
@@ -53,7 +54,7 @@ describe("User tests movie search functionality", () => {
        });
     })
 
-    it('Review Additional Results Per Page', () => { 
+    it('Review Additional Results Per Page - Pagination', () => { 
             cy.step('Searches for a movie')
             cy.get(ids.searchBar).type('Alien{enter}');
 
