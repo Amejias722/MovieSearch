@@ -6,7 +6,6 @@
 //     - The release date in the format "month day, year" (i.e. Feb 01, 2022).
 //     - The poster of the movie.
 // - If the results have additional pages, I want to have a mechanism to view the additional results (20 per page).
-// - There should be "search as you type" capability, ie. return results as the user is typing.
 // - I want to be able to share my search results with others by sharing the URL to it. In other words, make sure that
 // the query parameters are in sync with the search query/results on the page.
 
@@ -85,17 +84,8 @@ describe("User tests movie search functionality", () => {
               });
             });
          
-          
+  
     });
-
-
-    /*Uncomment test and run to check type ahead results. The suggestions do not match the search
-    input.*/ 
-
-    // it.only('User can search and select movie using type ahead', () => {
-    // cy.get(ids.searchBar).type("Lord of The") 
-    //     });
-        
     });
 
 
