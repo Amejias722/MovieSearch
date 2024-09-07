@@ -27,21 +27,3 @@ To run the Cypress tests, you can run:
 
 If you want to play around with the app without running Cypress, you can run `yarn dev` and visit [http://localhost:3000](http://localhost:3000/).
 
-# Project Submission
-Please submit your test code as a Pull Request.
-
-- Within the PR, please include:
-  - Any decisions you made and your reasoning. Examples:
-      - Added a new dependency because...
-      - Created this custom command to...
-  - Any test cases you couldn't get to, but would like to in the future.
-
-Once you open your PR, reach back out to the hiring manager for review.
-
-# Evaluation
-
-We’ll review your code submission for the following:
-
-- Functionality: Do the tests cover relevant functional areas, are they are flaky, and are they performant.
-- Test find-ability, organization and maintainability.
-- General coding practices including naming, code structure, and readability.
