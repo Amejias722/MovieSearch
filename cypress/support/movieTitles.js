@@ -39,7 +39,6 @@ const movieTitles = {
     autoResults: '[data-cy="autoResults"]'
     }
   
-
   module.exports = {
     movieTitles,
     getRandomTitle,
