@@ -12,5 +12,5 @@
 the query parameters are in sync with the search query/results on the page.
 
 ### Running the tests
-This project required a private API key that is no longer available. Project has been moved to read only. Please check video to see tests run.
+This project required an API key that is no longer available. Project has been moved to read only. Please check video to see tests run.
 [LoomVideo](https://www.loom.com/share/b156b91561954fcbacc30b2043457e42?sid=cccaa154-7281-4e78-8a04-ef8e61723ec6)
