@@ -12,5 +12,8 @@
 the query parameters are in sync with the search query/results on the page.
 
 ### Running the tests
-This project required an API key that is no longer available. Project has been moved to read only. Please check video to see tests run.
+API key might expire. See video if you are unable to run tests.
+
+yarn test
+
 [LoomVideo](https://www.loom.com/share/b156b91561954fcbacc30b2043457e42?sid=cccaa154-7281-4e78-8a04-ef8e61723ec6)
