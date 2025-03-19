@@ -12,8 +12,6 @@
 the query parameters are in sync with the search query/results on the page.
 
 ### Running the tests
-API key might expire. See video if you are unable to run tests.
 
 yarn test
 
-[LoomVideo](https://www.loom.com/share/b156b91561954fcbacc30b2043457e42?sid=cccaa154-7281-4e78-8a04-ef8e61723ec6)
